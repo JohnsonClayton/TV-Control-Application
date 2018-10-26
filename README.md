@@ -18,3 +18,8 @@ This application is made with the goal in mind of allowing a phone connect and c
   - Create hello world app that talks to local hosted web app
     - (App -> Website -> Pi)
   - Ensure input from phone
+- Step 3:
+  - Use commands from manual for TV to create + demonstrate control over TV with code
+    - Code may be in C or other lower-level situation
+- Step 4:
+  - Find a way to connect the js from website and the code used to command TV
