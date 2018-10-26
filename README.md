@@ -9,6 +9,7 @@ This application is made with the goal in mind of allowing a phone connect and c
   - Put links here for stuff
   
 ## Process
+### Phone -> App -> Website -> Pi -> *Something* -> TV
 - Step 1:
   - Set up the Pi
   - Set up an app on phone (Apache Cordova)
