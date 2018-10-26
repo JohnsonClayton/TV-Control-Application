@@ -6,7 +6,8 @@ This application is made with the goal in mind of allowing a phone connect and c
   - iPhone 
   - Skllz
 - Helpful things to have
-  - Put links here for stuff
+  - Apache Cordova Basic Guide
+  (https://cordova.apache.org/docs/en/latest/guide/cli/)
   
 ## Process
 ### Phone -> App -> Website -> Pi -> *Something* -> TV
