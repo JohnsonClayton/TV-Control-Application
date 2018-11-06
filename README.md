@@ -6,8 +6,9 @@ This application is made with the goal in mind of allowing a phone connect and c
   - iPhone 
   - Skllz
 - Helpful things to have
-  - Apache Cordova Basic Guide
-  (https://cordova.apache.org/docs/en/latest/guide/cli/)
+  - [Apache Cordova Basic Guide](https://cordova.apache.org/docs/en/latest/guide/cli/)
+  - [Using RS232 Connections](https://www.commfront.com/pages/3-easy-steps-to-understand-and-control-your-rs232-devices)
+  - [TV Manual Codes](https://www.manualslib.com/manual/451487/Sharp-Lc46sb54u-Lc-46-Lcd-Tv.html?page=28#manual)
   
 ## Process
 ### Phone -> App -> Website -> Pi -> *Something* -> TV
