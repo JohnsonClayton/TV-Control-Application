@@ -9,6 +9,7 @@ This application is made with the goal in mind of allowing a phone connect and c
   - [Apache Cordova Basic Guide](https://cordova.apache.org/docs/en/latest/guide/cli/)
   - [Using RS232 Connections](https://www.commfront.com/pages/3-easy-steps-to-understand-and-control-your-rs232-devices)
   - [TV Manual Codes](https://www.manualslib.com/manual/451487/Sharp-Lc46sb54u-Lc-46-Lcd-Tv.html?page=28#manual)
+  -Skllz
   
 ## Process
 ### Phone -> App -> Website -> Pi -> *Something* -> TV
