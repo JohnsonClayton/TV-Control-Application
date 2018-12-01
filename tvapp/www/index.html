@@ -3,38 +3,13 @@
   <head>
   	<title>Jose Cervantes' TV Application</title>
 	<script>
+		function sendCommand(cmd) {
+			var xmlhttp = new XMLHttpRequest();
+			xmlhttp.open("GET", "scripts/commandTV.php?cmd=" + cmd, false);
+			xmlhttp.send();
+		}
 		function buttonClicked(button) {
-			switch(button.id) {
-				case "power":
-					console.log("Turn the power on/off");
-					break;
-				case "input":
-					console.log("Select Source");
-					break;
-				case "up":
-					console.log("Go Up");
-					break;
-				case "left":
-					console.log("Go Left");
-					break;
-				case "right":
-					console.log("Go Right");
-					break;
-				case "down":
-					console.log("Go down");
-					break;
-				case "v_up":
-					console.log("Turn volume up");
-					break;
-				case "v_down":
-					console.log("Turn volume down");
-					break;
-				case "select":
-					console.log("Select option");
-					break;
-				default:
-					console.log("I don't recognize that command!");
-			}
+			sendCommand(button.id);
 		}
 	</script>
   </head>
