@@ -5,7 +5,7 @@
 	<script>
 		function sendCommand(cmd) {
 			var xmlhttp = new XMLHttpRequest();
-			xmlhttp.open("GET", "scripts/commandTV.php?cmd=" + cmd, false);
+			xmlhttp.open("GET", "./scripts/commandTV.php?cmd=" + cmd, false);
 			xmlhttp.send();
 		}
 		function buttonClicked(button) {
