@@ -17,6 +17,7 @@ This application is made with the goal in mind of allowing a phone connect and c
   - [x] Set up the Pi
   - [x] Connect javascript to php on server
   - [ ] Set up an app on phone (Apache Cordova)
+    - [ ] Emulate on iOS
   - [x] Connect to same network
 - [ ] Step 2: 
   - [ ] Create hello world app that talks to local hosted web app
@@ -25,5 +26,6 @@ This application is made with the goal in mind of allowing a phone connect and c
 - [ ] Step 3:
   - [ ] Use commands from manual for TV to create + demonstrate control over TV with code
     - Code may be in C or other lower-level situation
+    - [ ] Confirm C Hello World for PoC for PHP -> C communications
 - [ ] Step 4:
   - [ ] Find a way to connect the php to command TV
